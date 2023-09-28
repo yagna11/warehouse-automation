@@ -2,7 +2,7 @@ const http = require("http");
 const fs = require("fs");
 const url = require("url");
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 const orders = JSON.parse(fs.readFileSync("../script/orders.json", "utf8"));
 const products = JSON.parse(
