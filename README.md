@@ -38,6 +38,9 @@ This should automatically open the React app in your default browser. If not, yo
 - For local development, the React app communicates with the backend using a proxy to avoid CORS issues.
 - In a production environment, we might have to deploy the frontend and backend separately.
 
+## Screenshot
+<img width="800" alt="Screenshot 2023-09-28 at 11 45 13 PM" src="https://github.com/yagna11/warehouse-automation/assets/70176837/7145e64b-2e2c-4bf8-b585-27666bed7a6b">
+
 ## Future Improvements 
 - improve the UI
 - Add test cases
