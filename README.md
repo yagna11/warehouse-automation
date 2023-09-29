@@ -17,10 +17,9 @@ Node.js & npm
 ## Setting Up the Backend
 1. Navigate to the root directory of the project.
 2. Install required dependencies using:
-
     `npm install`
 3. Start the backend server:
-    `npm start`
+    `node server/server.js`
 
 ## Setting Up the Frontend (Client)
 1. Navigate to the client directory.
