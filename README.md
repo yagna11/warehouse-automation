@@ -8,6 +8,7 @@ An application designed to automate various tasks in the warehouse process.
 
 # Technology Stack
 Backend: Node.js
+
 Frontend: React.js
 
 # Getting Started
