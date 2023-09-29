@@ -1,10 +1,10 @@
-import ListRenderer from "./ListRenderer";
-import "./App.css";
+import './App.css';
+import ListRenderer from './ListRenderer';
 
 function App() {
   return (
     <div className="App">
-      <ListRenderer />
+    <ListRenderer />
     </div>
   );
 }
